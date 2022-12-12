@@ -25,9 +25,7 @@ MarkupSafe==2.0.1
 more-itertools==4.0.1
 pipreqs==0.4.9
 portend==2.2
-pypiwin32==223
 pytz==2017.3
-pywin32==304
 requests==2.18.4
 six==1.11.0
 SQLAlchemy==1.4.41
