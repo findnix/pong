@@ -10,3 +10,4 @@ oc new-app openshift/python~https://github.com/findnix/pong.git
 oc expose service/pong
 watch oc status
 ```
+--> pip freeze > requirements.txt 
